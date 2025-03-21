@@ -40,7 +40,7 @@ Support the Project
 
 We’ve launched a limited-edition AetherBeam T-shirt to help support the mission of sustainable maker tech.
 Wear it, share it, and help us light the path forward:
-Purchase here
+[Purchase here](https://mecht.org/aethert)
 
 ---
 

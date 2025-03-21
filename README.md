@@ -61,4 +61,4 @@ Fork, remix, submit PRs—or just share how you’re using AetherBeam in your ow
 
 License
 
-This project is licensed under [Creative Commons or appropriate open-source license].
+This project is licensed under [CERN Open Hardware Licence Version 2 - Strongly Reciprocal].
